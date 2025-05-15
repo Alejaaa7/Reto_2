@@ -1,10 +1,6 @@
 # Reto_2
-
+```mermaid
 ---
-config:
-  theme: neo-dark
-  look: handDrawn
-  layout: elk
 title: Academic Management System
 ---
 classDiagram
